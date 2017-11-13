@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dskafj
 dskajfk
+=======
+ skafdkas
+>>>>>>> 365217a3535dd2e2b0a9d19cdac4c42f84fd1991
